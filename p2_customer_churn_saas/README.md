@@ -15,8 +15,7 @@ The dataset spans 5 CSV files:
 4. support_tickets.csv – support activity and satisfaction scores
 5. churn_events.csv – churn dates, reasons, and refund behaviors
 
-**Kaggle Link of Dataset:** https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset
-
+**Kaggle Dataset Link:** https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset
 
 ## Key insights
 1. Most customers stay, but **churn rate is significant (~22%)**
@@ -35,7 +34,7 @@ The dataset spans 5 CSV files:
 5. **Introduce service bundles-** Security + tech support bundles can increase retention.
 
 ## Visual sample charts
-Links to be added
+Analysis of churn w.r.t. various features, correlation heatmaps (png format) are placed in ../ouput folder.
 
 ## How to run the notebook/script
 Place dataset (.csv) files in ../data folder. Then run the notebook file.
