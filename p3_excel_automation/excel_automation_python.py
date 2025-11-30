@@ -32,8 +32,8 @@ from openpyxl.styles import Font
 from openpyxl.chart import BarChart, Reference
 from datetime import datetime
 
-input_dir = '/content/drive/MyDrive/data-analytics-portfolio-anurag/p3_excel_automation/input_files'
-output_file = '/content/drive/MyDrive/data-analytics-portfolio-anurag/p3_excel_automation/Automated_Sales_Report.xlsx'
+input_dir = '../input_files'
+output_file = '../Automated_Sales_Report.xlsx'
 
 # Create workbook
 output_wb = Workbook()
